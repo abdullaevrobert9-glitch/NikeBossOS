@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.nikeboss.os'
-    compileSdk 30
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.nikeboss.os"
         minSdk 24
-        targetSdk 30
+        targetSdk 34
         versionCode 1
         versionName "0.1"
     }
